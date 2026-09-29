@@ -1,4 +1,4 @@
-# EduConnect: Course Management Microservices
+# Online Learning Management System Microservice
 
 A microservices-based course management system built with Spring Boot and Spring Cloud. Each business area runs as an independent REST service, and the services find and call each other through Eureka and OpenFeign.
 
